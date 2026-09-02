@@ -23,8 +23,16 @@ A desktop Recruitment CRM built using Python, CustomTkinter and SQLite.
 
 ## Project Structure
 
+<<<<<<< HEAD
 ui/
 src/
 JD_Files/
 Resumes/
 crm.db
+=======
+staffing_crm/
+├── ui/
+├── src/
+├── JD_Files/
+├── Resumes/
+└── crm.db
